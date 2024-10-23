@@ -9,8 +9,8 @@
 
 int main(void)
 {
-char ch = 1;
-for (ch = 1; ch < 10; ch++)
+int ch;
+for (ch = 0; ch < 10; ch++)
 {
 printf("%d", ch);
 }
