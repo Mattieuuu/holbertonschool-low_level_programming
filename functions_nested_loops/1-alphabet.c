@@ -16,4 +16,3 @@ while (*alphabet)
 _putchar(*alphabet++);
 }
 }
-
