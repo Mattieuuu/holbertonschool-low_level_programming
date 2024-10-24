@@ -10,14 +10,14 @@
 
 void print_alphabet_x10(void)
 {
-const char *alphabet = "abcdefghijklmnopqrstuvwxyz\n"
+const char *alphabet = "abcdefghijklmnopqrstuvwxyz\n";
 int number;
 for (number = 0; number < 10; number++)
 {
 const char *current = alphabet;
 while (*current)
 {
-_putchar(*current++)
+_putchar(*current++);
 }
 }
 }
