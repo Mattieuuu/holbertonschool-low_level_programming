@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * _isalpha - check the code.
  *
  * Description: Checks if c is a letter, lowercase or uppercase
  * @c: the character to check
