@@ -14,7 +14,7 @@ int a;
 int number;
 for (a = 0; a < 10; a++)
 {
-for (number = 0; number < 14; number++)
+for (number = 0; number <= 14; number++)
 {
 if (number > 9)
 _putchar((number / 10) + '0');
