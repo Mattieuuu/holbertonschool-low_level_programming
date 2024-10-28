@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include "main.h"
+/**
+ * _isdigit - Checks if c is a digit
+ *
+ * Description: Prints lowercase and uppercase alphabet
+ * Return: Always 0 (Success)
+ */
+
+int _isdigit(int c)
+{
+if (c >= '1' && c <= '9')
+return (1);
+else
+return (0);
+}
