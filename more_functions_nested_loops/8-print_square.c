@@ -8,7 +8,7 @@
  * Return: if size is less than 0
  */
 
-void print_square(int size);
+void print_square(int size)
 {
 int a;
 int b;
