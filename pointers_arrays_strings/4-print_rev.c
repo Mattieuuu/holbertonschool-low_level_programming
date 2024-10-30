@@ -20,7 +20,5 @@ while (length != 0)
 _putchar(s[length]);
 length--;
 }
-{
- _putchar('\n');
-}
+_putchar('\n');
 }
