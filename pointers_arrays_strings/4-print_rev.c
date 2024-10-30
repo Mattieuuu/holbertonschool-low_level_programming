@@ -17,7 +17,7 @@ length++;
 }
 while (length >= 0)
 {
-length--;
 _putchar(s[length]);
+length--;
 }
 }
