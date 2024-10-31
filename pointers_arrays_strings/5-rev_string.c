@@ -4,7 +4,6 @@
 /**
  * print_rev - print pointer str in reverse
  * @s: pointer to check
- * Description: Prints Holberton! in reverse
  * Return: void
  */
 
