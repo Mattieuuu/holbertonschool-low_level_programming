@@ -5,8 +5,6 @@
  * puts2 - prints a half of a string
  *
  * @str: the character to check
- * @a: character to check
- * @b: character to check
  * Return: void
  */
 
