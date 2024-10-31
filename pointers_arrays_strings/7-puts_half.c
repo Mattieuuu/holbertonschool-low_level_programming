@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * puts2 - prints a half of a string
+ * puts_half - prints a half of a string
  *
  * @str: the character to check
  * Return: void
