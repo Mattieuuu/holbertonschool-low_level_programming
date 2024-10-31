@@ -21,6 +21,6 @@ for (a = 0; a < length / 2; a++)
 {
 tmp = s[a];
 s[a] = s[length - 1 - a];
-s[length - 1 - a] = temp;
+s[length - 1 - a] = tmp;
 }
 }
