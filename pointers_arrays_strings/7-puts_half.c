@@ -20,7 +20,7 @@ length++;
 }
 if (length % 2 == 0)
 {
-b = length : 2;
+b = length / 2;
 }
 else
 {
