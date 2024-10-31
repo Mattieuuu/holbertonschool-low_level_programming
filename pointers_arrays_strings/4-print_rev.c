@@ -4,8 +4,8 @@
 /**
  * print_rev - print pointer str in reverse
  * @s: pointer to check
- * Description: Prints lowercase and uppercase alphabet
- * Return: Always 0 (Success)
+ * Description: Prints Holberton! in reverse
+ * Return: void
  */
 
 void print_rev(char *s)
@@ -15,9 +15,11 @@ while (s[length] != '\0')
 {
 length++;
 }
+length--;
 while (length >= 0)
 {
 _putchar(s[length]);
 length--;
 }
+_putchar('\n');
 }
