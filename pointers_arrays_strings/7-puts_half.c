@@ -20,11 +20,11 @@ length++;
 }
 if (length % 2 == 0)
 {
-n = length : 2;
+b = length : 2;
 }
 else
 {
-n = (length - 1) / 2 + 1;
+b = (length - 1) / 2 + 1;
 }
 for (a = b; a < length; a++)
 {
