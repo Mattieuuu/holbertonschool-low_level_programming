@@ -2,12 +2,12 @@
 #include "main.h"
 
 /**
- * print_rev - print pointer str in reverse
+ * rev_string - print pointer str in reverse
  * @s: pointer to check
  * Return: void
  */
 
-void print_rev(char *s)
+void rev_string(char *s)
 {
 int length = 0;
 int a;
