@@ -4,7 +4,7 @@
 /**
  * _strchr - locates a character in a string.
  * @s: pointer containing the string
- * @c: character desired in pointer s 
+ * @c: character desired in pointer s
  * Return: adress of pointer s
  */
 
@@ -16,7 +16,7 @@ for (i = 0; s[i] != '\0'; i++)
 if (s[i] == c)
 {
 return (&s[i]);
-}   
+}
 }
 if (c == '\0')
 {
