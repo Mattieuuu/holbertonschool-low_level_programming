@@ -2,9 +2,8 @@
 #include "main.h"
 
 /**
- * _string_toupper - return length of a string
+ * _strlen_recursion - return length of a string
  * @s: pointer of the string
- * Return: pointer to edited string
  */
 
 int _strlen_recursion(char *s)
