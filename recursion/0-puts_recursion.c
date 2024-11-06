@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * _string_toupper - changes lowercase letters of a string to uppercase
- * @str
+ * _puts_recursion - print a string followed by a new line
+ * @s: pointer
  */
 
 void _puts_recursion(char *s)
