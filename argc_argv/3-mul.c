@@ -2,16 +2,17 @@
 #include <stdlib.h>
 
 /**
- * main - main
- * @argc: argc
- * @argv: argv
- * Return: Always 0
+ * main - multiple two number
+ * @argc: argc number of arguments
+ * @argv: argv array of arguments
+ *
+ *  Return: 0 (Success), return 1 (ERROR)
  */
 
 int main(int argc, char *argv[])
 {
-int number1;
-int number2;
+int num1;
+int num2;
 int result = 0;
 
 if (argc != 3)
@@ -19,9 +20,10 @@ if (argc != 3)
 printf("Error\n");
 return (1);
 }
-number1 = atoi(argv[1]);
-number2 = atoi(argv[2]);
-result = number1 * number2;
+
+num1 = atoi(argv[1]);
+num2 = atoi(argv[2]);
+result = num1 * num2;
 
 printf("%d\n", result);
 
