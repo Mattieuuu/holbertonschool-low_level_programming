@@ -3,11 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - 
- * @array: array to check
- * @size: number of elements of the array
- * @action: pointer of the function to apply on every elements
- * Return: no return
+ * main - main 
+ * @argc: number of arguments
+ * @argv: array of arguments
+ * Return: 0 or error
  */
 
 int main(int argc, char *argv[])

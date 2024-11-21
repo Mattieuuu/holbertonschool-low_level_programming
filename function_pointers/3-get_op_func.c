@@ -1,12 +1,11 @@
 #include <stdio.h>
+#include <stddef.h>
 #include "3-calc.h"
 
 /**
- * array_iterator - execute function on every element of array
- * @array: array to check
- * @size: number of elements of the array
- * @action: pointer of the function to apply on every elements
- * Return: no return
+ * get_op_func - 
+ * @s: operator passed by an argument
+ * Return: ops
  */
 int (*get_op_func(char *s))(int, int)
 {
