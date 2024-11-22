@@ -3,9 +3,9 @@
 #include "variadic_functions.h"
 
 /**
- * print_strings - main
- * @n: int n
- * @separator: character separator
+ * print_all - main
+ * @format: list of types of argument passed to function
+ * 
  * Return: void
  */
 
