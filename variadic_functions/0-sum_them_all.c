@@ -4,8 +4,6 @@
 /**
  * sum_them_all - Calcule la somme de tous les paramètres
  * @n: Nombre de paramètres
- * @...: Liste variable de paramètres à additionner
- *
  * Return: La somme de tous les paramètres, ou 0 si n == 0
  */
 
@@ -24,5 +22,5 @@ for (i = 0; i < n; i++)
 sum += va_arg(args, int);
 }
 va_end(args);
-return(sum);
+return (sum);
 }
