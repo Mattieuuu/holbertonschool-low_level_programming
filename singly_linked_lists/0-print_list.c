@@ -7,7 +7,7 @@
  * print_list - prints all elements of chain list list_t
  * @h: pointer for first node of the list
  *
- * Return : count (number of node in the list)
+ * Return: count (number of node in the list)
  */
 
 size_t print_list(const list_t *h)
