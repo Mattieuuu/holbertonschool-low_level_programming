@@ -2,10 +2,10 @@
 #include "lists.h"
 
 /**
- * print_list - prints all elements of chain list list_t
+ * list_len - calculate number of elements in character chain
  * @h: pointer for first node of the list
  *
- * Return: count (number of node in the list)
+ * Return: count
  */
 
 size_t list_len(const list_t *h)
