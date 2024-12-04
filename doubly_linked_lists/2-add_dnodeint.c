@@ -2,7 +2,7 @@
 #include "lists.h"
 
 /**
- * dlistint_t - prints all elements of the list
+ * add_dnodeint - prints all elements of the list
  * @head: pointer for head of list
  * @n: Value to stock in new node
  *
