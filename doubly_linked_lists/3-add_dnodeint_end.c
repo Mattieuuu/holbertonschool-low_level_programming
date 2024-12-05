@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /**
- * add_dnodeint - prints all elements of the list
+ * add_dnodeint_end - prints all elements of the list
  * @head: pointer for head of list
  * @n: Value to stock in new node
  *
@@ -24,7 +24,7 @@ new_node->next = *head;
 new_node->prev = NULL;
 
 if (*head != NULL)
-*head= new_node;
+*head = new_node;
 return (new_node);
 
 temp = *head;
