@@ -24,8 +24,10 @@ new_node->next = *head;
 new_node->prev = NULL;
 
 if (*head != NULL)
+{
 *head = new_node;
 return (new_node);
+}
 
 temp = *head;
 while (temp->next != NULL)
