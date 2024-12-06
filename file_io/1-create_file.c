@@ -28,5 +28,5 @@ if (fd == -1 || w == -1)
 return (-1);
 
 close(fd);
-return (-1);
+return (1);
 }
