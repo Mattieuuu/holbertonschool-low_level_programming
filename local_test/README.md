@@ -30,7 +30,23 @@ https://github.com/RayaneAll/holbertonschool-simple_shell
 
 ### *Files in the project :*
 
-//list files in the project//
+- **display_shell.c :**
+
+- **execute_command.c :**
+  
+- **execute_fork.c :**
+
+- **read_line.c :**
+
+- **shell.c :**
+
+- **shell.h :**
+
+- **strcspn.c :**
+
+- **strlen.c :**
+
+- **tokenize_command.c :**
 
 
 
