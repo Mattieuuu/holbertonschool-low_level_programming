@@ -12,7 +12,9 @@ Its like a shell in a shell.
 
 //screen of usage examples//
 
+### *Compilation :* 
 
+Use : gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 ### *Internal functioning :*
 
