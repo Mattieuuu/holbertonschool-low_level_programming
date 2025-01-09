@@ -4,7 +4,7 @@
 - [Usage Example](#usage-example)
 - [Compilation](#compilation)
 - [Internal Functioning](#internal-functioning)
-- [Clone this project with GitHub !](#clone-this-project-with-github-!)
+- [Clone this project with GitHub !](#clone-this-project-with-github)
 - [Files in the project :](#files-in-the-project-:)
 - [Testing the Simple Shell](#testing-the-simple-shell)
 - [Flowchart](#flowchart)
