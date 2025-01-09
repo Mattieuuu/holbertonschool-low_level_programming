@@ -4,8 +4,8 @@
 - [Usage Example](#usage-example)
 - [Compilation](#compilation)
 - [Internal Functioning](#internal-functioning)
-- [Clone this project with GitHub !](#clone-this-project-with-github)
-- [Files in the project :](#files-in-the-project-:)
+- [Clone this project with GitHub](#clone-this-project-with-github)
+- [Files in the project](#files-in-the-project)
 - [Testing the Simple Shell](#testing-the-simple-shell)
 - [Flowchart](#flowchart)
 - [Man Page](#man-page)
@@ -33,7 +33,7 @@ Use : gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
 
 
-# Clone this project with GitHub !
+# Clone this project with GitHub
 
 ### Adress of the project -
 https://github.com/RayaneAll/holbertonschool-simple_shell
@@ -41,7 +41,7 @@ https://github.com/RayaneAll/holbertonschool-simple_shell
 
 
 
-# Files in the project :
+# Files in the project
 
 - **display_shell.c :**
 
