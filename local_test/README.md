@@ -13,7 +13,7 @@
 
 # Description
 
-**The simple shell 
+**The simple shell**
 is a smallest version of the shell everybody know already, and more abstract cause we use this one 
 on the command invit.
 Its like a shell in a shell.
