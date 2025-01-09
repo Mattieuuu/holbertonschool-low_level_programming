@@ -1,10 +1,8 @@
 ![rayane_mattieu](https://github.com/user-attachments/assets/eefa1399-eb32-4585-ac45-f60b15d50085)
 
-![version](https://img.shields.io/badge/version-1.9.0-red)
+- [Description](#description)
 
-![Licence](https://img.shields.io/badge/licence-MA-blue)
-
-### *Description :*
+# Description
 
 The simple shell is a smallest version of the shell everybody know already, and more abstract cause we use this one 
 on the command invit.
