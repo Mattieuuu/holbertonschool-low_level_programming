@@ -1,6 +1,15 @@
 ![rayane_mattieu](https://github.com/user-attachments/assets/eefa1399-eb32-4585-ac45-f60b15d50085)
 
 - [Description](#description)
+- [Usage Example](#usage-example)
+- [Compilation](#compilation)
+- [Internal Functioning](#internal-functioning)
+- [Clone this project with GitHub !](#clone-this-project-with-github-!)
+- [Files in the project :](#files-in-the-project-:)
+- [Testing the Simple Shell](#testing-the-simple-shell)
+- [Flowchart](#flowchart)
+- [Man Page](#man-page)
+- [Authors](#authors)
 
 # Description
 
@@ -10,21 +19,21 @@ Its like a shell in a shell.
 
 
 
-### *Usage example :* 
+# Usage Example
 
 //screen of usage examples//
 
-### *Compilation :* 
+# Compilation
 
 Use : gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
-### *Internal functioning :*
+# Internal Functioning
 
 //explain how simple shell do and how to use//
 
 
 
-### *Clone this project with GitHub ! :*
+# Clone this project with GitHub !
 
 ### Adress of the project -
 https://github.com/RayaneAll/holbertonschool-simple_shell
@@ -32,7 +41,7 @@ https://github.com/RayaneAll/holbertonschool-simple_shell
 
 
 
-### *Files in the project :*
+# Files in the project :
 
 - **display_shell.c :**
 
@@ -54,23 +63,23 @@ https://github.com/RayaneAll/holbertonschool-simple_shell
 
 
 
-### *Testing the Simple shell :*
+# Testing the Simple shell
 
 
 
-### *Flowchart :*
+# Flowchart
 
 //flowchart screen//
 
 
 
-### *Man page :* 
+# Man page
 
 Access to the main page with man_1_simple_shell
 
 
 
-### *Authors :*
+# Authors
 
 - Mattieu Mouroux  >>> //Developement of …//
 
